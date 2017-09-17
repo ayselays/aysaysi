@@ -110,3 +110,31 @@
 [0916/201822:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
 [0916/201822:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
 [0916/201822:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/210207:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210207:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210207:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210207:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210207:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/210207:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0916/210207:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/210759:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210759:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210759:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210759:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/210759:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/210759:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0916/210759:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/213251:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/213251:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/213251:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/213251:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/213251:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/213251:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0916/213251:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/215219:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/215219:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/215219:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/215219:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0916/215219:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
+[0916/215219:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0916/215219:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Отказано в доступе. (0x5)
